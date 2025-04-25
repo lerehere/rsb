@@ -62,6 +62,9 @@ main {
     justify-content: center; /* Центрируем элементы по вертикали */
 }
 
+.linkbutton {
+    text-decoration: none;
+}
 .buy-button {
     background-color: #4a148c; /* Фиолетовый */
     color: #fff;
